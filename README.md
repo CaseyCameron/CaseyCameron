@@ -10,5 +10,5 @@ I am a Full-Stack Engineer who takes projects from ideation to completion. My ba
 * **Dev Practices:** Test Driven Development, Domain Driven Development, Pair/Mob Programming, Scrum
 ****
 ### Stats
-[![My github stats](https://github-readme-stats.vercel.app/api?username=CaseyCameron&hide=stars,issues&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/CaseyCameron/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaseyCameron&layout=compact&theme=vision-friendly-dark)](https://github.com/CaseyCameron/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=CaseyCameron&hide=stars,issues&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/CaseyCameron/github-readme-stats)
