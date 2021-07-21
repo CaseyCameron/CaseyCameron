@@ -1,16 +1,14 @@
-### Hi there 👋
+I am a Full-Stack Engineer who takes projects from ideation to completion. My background of taking agency on and ownership very expensive projects while interfacting with multidisciplinary teams informs my engineering, making me a motivated and capable problem solver. I am adaptable and able to explore and learn, translating research into productive work. A primary asset of mine is diving into unknown problems and providing solutions. Teamwork is something I value, and I enjoy working with others, mob programming, pair programming, and interacting with other teams.
 
-<!--
-**CaseyCameron/CaseyCameron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+* **Languages:** JavaScript, React, Python, C#, HTML/CSS
+* **Back-End:** Node.js, Express
+* **Front-End:** React, Redux
+* **Databases:** PostgreSQL, SQLite, Sequelize
+* **Tools:** Slack, GitHub, Jira, Perforce, VScode, PyCharm, Heroku, Netlify, Miro, Figma
+* **Testing Suites:** Jest, QUnit
+* **Dev Practices:** Test Driven Development, Domain Driven Development, Pair/Mob Programming, Scrum
+****
+### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaseyCameron&layout=compact&theme=vision-friendly-dark)](https://github.com/CaseyCameron/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=CaseyCameron&hide=stars,issues&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/CaseyCameron/github-readme-stats)
