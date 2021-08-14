@@ -1,7 +1,7 @@
 I am a Full-Stack Engineer who takes projects from ideation to completion. My background of taking agency and ownership on very expensive projects while interfacting with multidisciplinary teams informs my engineering and illustrates my motivated and capable nature. I am adaptable and able to explore and learn, translating research into productive work. Teamwork is something I value, and I enjoy working with others, mob programming, pair programming, and interacting with other teams.
 
 ### Tech Stack
-* **Languages:** JavaScript, React, Python, C#, HTML/CSS
+* **Languages:** JavaScript, React, Python, HTML/CSS
 * **Back-End:** Node.js, Express
 * **Front-End:** React, Redux
 * **Databases:** PostgreSQL, SQLite, Sequelize
