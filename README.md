@@ -2,14 +2,14 @@ I am a Full-Stack Engineer who takes projects from ideation to completion. My ba
 
 ### Tech Stack
 ```javascript
-{
+const techStack = {
   Languages: ['Javascript', 'React', 'Python', 'HTML', 'CSS'],
-  Back-End: ['Nodejs', 'Express'],
-  Front-End: ['React', 'Redux'],
+  backEnd: ['Nodejs', 'Express'],
+  frontEnd: ['React', 'Redux'],
   Databases: ['PostgreSQL', 'SQLite', 'Sequelize'],
   Tools: ['Slack', 'GitHub', 'Jira', 'Perforce', 'VScode', 'PyCharm', 'Heroku', 'Netlify', 'Miro', 'Figma'],
-  Testing-Suites: ['Jest', 'QUnit', 'Supertest'],
-  Dev-Practices: ['Test Driven Development', 'Domain Driven Development', 'PairMob Programming', 'Scrum']
+  testingSuites: ['Jest', 'QUnit', 'Supertest'],
+  devPractices: ['Test Driven Development', 'Domain Driven Development', 'PairMob Programming', 'Scrum']
 }
 
 ```
