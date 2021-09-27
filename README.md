@@ -3,24 +3,17 @@ I am a Full-Stack Engineer who takes projects from ideation to completion. My ba
 ### Tech Stack
 ```js
 {
-  Languages: [JavaScript, React, Python, HTML/CSS],
-  Back-End: [Node.js, Express],
-  Front-End: [React, Redux],
-  Databases: [PostgreSQL, SQLite, Sequelize],
-  Tools: [Slack, GitHub, Jira, Perforce, VScode, PyCharm, Heroku, Netlify, Miro, Figma],
-  Testing-Suites: [Jest, QUnit, Supertest],
-  Dev-Practices: [Test Driven Development, Domain Driven Development, Pair/Mob Programming, Scrum]
+  Languages: ['Javascript', 'React', 'Python', 'HTML', 'CSS'],
+  Back-End: ['Nodejs', 'Express'],
+  Front-End: ['React', 'Redux'],
+  Databases: ['PostgreSQL', 'SQLite', 'Sequelize'],
+  Tools: ['Slack', 'GitHub', 'Jira', 'Perforce', 'VScode', 'PyCharm', 'Heroku', 'Netlify', 'Miro', 'Figma'],
+  Testing-Suites: ['Jest', 'QUnit', 'Supertest'],
+  Dev-Practices: ['Test Driven Development', 'Domain Driven Development', 'PairMob Programming', 'Scrum']
 }
 
 ```
-* **Languages:** JavaScript, React, Python, HTML/CSS
-* **Back-End:** Node.js, Express
-* **Front-End:** React, Redux
-* **Databases:** PostgreSQL, SQLite, Sequelize
-* **Tools:** Slack, GitHub, Jira, Perforce, VScode, PyCharm, Heroku, Netlify, Miro, Figma
-* **Testing Suites:** Jest, QUnit
-* **Dev Practices:** Test Driven Development, Domain Driven Development, Pair/Mob Programming, Scrum
-****
+
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaseyCameron&layout=compact&theme=vision-friendly-dark)](https://github.com/CaseyCameron/github-readme-stats)
 [![My github stats](https://github-readme-stats.vercel.app/api?username=CaseyCameron&hide=stars,issues&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/CaseyCameron/github-readme-stats)
