@@ -2,7 +2,7 @@ I am a Full-Stack Engineer who takes projects from ideation to completion. My ba
 
 ### Tech Stack
 ```javascript
-const techStack = {
+let techStack = {
   Languages: ['Javascript', 'React', 'Python', 'HTML', 'CSS'],
   backEnd: ['Nodejs', 'Express'],
   frontEnd: ['React', 'Redux'],
