@@ -9,7 +9,7 @@ let techStack = {
   databasesAndTools: ['PostgreSQL', 'SQLite', 'Sequelize'],
   tools: ['Slack', 'GitHub', 'Jira', 'Perforce', 'VScode', 'PyCharm', 'Heroku', 'Netlify', 'Miro', 'Figma'],
   testingSuites: ['Jest', 'QUnit', 'Supertest'],
-  devPractices: ['Test Driven Development', 'Domain Driven Development', 'PairMob Programming', 'Scrum']
+  devPractices: ['Test Driven Development', 'Domain Driven Development', 'Pair & Mob Programming', 'Scrum']
 }
 
 ```
