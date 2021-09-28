@@ -3,11 +3,11 @@ I am a Full-Stack Engineer who takes projects from ideation to completion. My ba
 ### Tech Stack
 ```javascript
 let techStack = {
-  Languages: ['Javascript', 'React', 'Python', 'HTML', 'CSS'],
+  languages: ['Javascript', 'React', 'Python', 'HTML', 'CSS'],
   backEnd: ['Nodejs', 'Express'],
   frontEnd: ['React', 'Redux'],
-  Databases: ['PostgreSQL', 'SQLite', 'Sequelize'],
-  Tools: ['Slack', 'GitHub', 'Jira', 'Perforce', 'VScode', 'PyCharm', 'Heroku', 'Netlify', 'Miro', 'Figma'],
+  databasesAndTools: ['PostgreSQL', 'SQLite', 'Sequelize'],
+  tools: ['Slack', 'GitHub', 'Jira', 'Perforce', 'VScode', 'PyCharm', 'Heroku', 'Netlify', 'Miro', 'Figma'],
   testingSuites: ['Jest', 'QUnit', 'Supertest'],
   devPractices: ['Test Driven Development', 'Domain Driven Development', 'PairMob Programming', 'Scrum']
 }
