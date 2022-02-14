@@ -3,13 +3,13 @@ I am a Full Stack Engineer who takes projects from ideation to completion. My ba
 ### Tech Stack
 ```javascript
 let techStack = {
-  languages: ['Javascript', 'React', 'Python', 'HTML', 'CSS'],
+  languages: ['Javascript', 'React', 'Python', 'C#', 'HTML', 'CSS'],
   backEnd: ['Nodejs', 'Express'],
   frontEnd: ['React', 'Redux'],
-  databasesAndTools: ['PostgreSQL', 'SQLite', 'Sequelize'],
+  databasesAndTools: ['PostgreSQL', 'MySQL', 'SQLite', 'Sequelize', 'Supabase'],
   tools: ['Slack', 'GitHub', 'Jira', 'Perforce', 'VScode', 'PyCharm', 'Heroku', 'Netlify', 'Miro', 'Figma'],
-  testingSuites: ['Jest', 'QUnit', 'Supertest'],
-  devPractices: ['Test Driven Development', 'Domain Driven Development', 'Pair & Mob Programming', 'Scrum']
+  testingSuites: ['Jest', 'QUnit', 'Supertest', 'MSW', 'Cypress'],
+  devPractices: ['Test Driven Development', 'Pair & Mob Programming', 'Scrum']
 }
 
 ```
