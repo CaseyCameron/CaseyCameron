@@ -6,10 +6,10 @@ let techStack = {
   languages: ['Javascript', 'Typescript', 'HTML', 'CSS'],
   backEnd: ['Nodejs', 'Express'],
   frontEnd: ['React', 'Tailwind CSS', 'MUI'],
-  databasesAndTools: ['PostgreSQL', 'MySQL', 'SQLite', 'Sequelize', 'Supabase', 'Firebase'],
+  databasesAndTools: ['Firebase', 'Mongoose', 'MongoDB', 'Prisma', 'PostgreSQL', 'MySQL', 'SQLite', 'Sequelize', 'Supabase'],
   tools: ['Slack', 'GitHub', 'Jira', 'Perforce', 'VScode', 'PyCharm', 'Heroku', 'Netlify', 'Miro', 'Figma'],
   testingSuites: ['React Testing Library', 'Jest', 'QUnit', 'Supertest', 'MSW', 'Cypress'],
-  devPractices: ['Test Driven Development', 'Pair & Mob Programming', 'Scrum']
+  devPractices: ['Agile', 'Test Driven Development', 'Pair & Mob Programming', 'Scrum']
 }
 
 ```
